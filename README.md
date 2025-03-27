@@ -1,7 +1,7 @@
 # LaserGateTimer
 Arduino code for the timer module of the laser gate timer system (formerly photogates) 
 
-When the system turns on, the sensors need to calibrate to ambient light levels. 
+When the system turns on, the sensors need to calibrate to ambient light levels. When the system is turned off or reset, this calibration is reset. 
 
 
 
